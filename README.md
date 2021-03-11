@@ -1,2 +1,2 @@
 # CardAnimation3D
-![card.gif](card.gif)
+![card.gif](cardAnimation.gif)
